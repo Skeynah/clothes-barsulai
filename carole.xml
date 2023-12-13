@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="carole.css"?>
+<advertisement>
+    <title>
+        CAROLE CLOTHES ADVERTSMENT
+    </title>
+    <item>
+        <name>Shift Dress</name>
+        <price>$45.00</price>
+        <description><span>Winter cardigan</span> <span>Available in two colours.</span> 100% wool.</description>
+    </item>
+    <item>
+        <name>Wraparound Skirt</name>
+        <price>$30.00</price>
+        <description><span>Winter cardigan</span> <span>Available in two colours.</span> 100% wool.</description>
+    </item>
+    <item>
+        <name>Cardigan</name>
+        <price>$70.00</price>
+        <description><span>Winter cardigan</span> <span>Available in two colours.</span> 100% wool.</description>
+    </item>
+    <item>
+        <name>Dress Hat</name>
+        <price>$20.00</price>
+        <description><span>Winter cardigan</span> <span>Available in two colours.</span> 100% wool.</description>
+    </item>
+</advertisement>
+
